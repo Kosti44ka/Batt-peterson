@@ -1,0 +1,86 @@
+.img{
+	width: 200px;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.img-container li{
+	display: inline-block;
+	width: 22%;
+	padding: 10px;
+}
+.img-container {
+  text-align: center;
+  margin-top: 20px;
+  width: 100%;
+
+}
+
+.img-container img {
+  width: 100%;
+  display: inline-block;
+  transition: 25ms;
+}
+
+.img-container ul li {
+  list-style-type: none;
+}
+.img{
+	transform: scale(0.95)
+
+}
+.img img:hover{
+	transform: scale(1)
+}
+/*.image{
+	position:absolute;
+	padding-top: 150px;
+	padding-bottom: 0px;
+	padding-left: 50px;
+}
+.image1{
+	position:absolute;
+	padding-top: 550px;
+	padding-bottom: 0px;
+	padding-left: 90px;
+}
+.image2{
+	position:absolute;
+	padding-top: 1400px;
+	padding-bottom: 0px;
+	padding-left: 90px;
+}
+.image3{
+	position:absolute;
+	padding-top: 760px;
+	padding-bottom: 0px;
+	padding-left: 1000px;
+}
+nav li {
+  padding: 0;
+  list-style: none;
+  display: inline;
+  font-size: 24px;
+  margin-right: 8px;
+  justify-content: center;
+}
+img{
+	width: 100%;
+
+}
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+nav img {display: none;}
+@media (nav img: 600px){
+	nav img{ display:block; }
+	nav ui{
+		display:none;
+	}
+	nav:hover u1{display:block;}
+}*/
